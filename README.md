@@ -12,4 +12,6 @@ With sharpness V :
 
 Melee damage : +3=13
 
-Ranged damage : +3=13
+Ranged damage is unstable
+
+NOTE : Tooltip damage, the one shown in your inventory, is broken. It won't fetch the real damage but rather the one of that item in the game code, from what I understood. So it will show 9, but deal the above values.
