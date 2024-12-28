@@ -1,6 +1,7 @@
   What does it do :
 
 Adds sharpness support for tridents
+
 Adds looting support for tridents
 
 Melee damage : 9->10
